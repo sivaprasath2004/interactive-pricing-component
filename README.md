@@ -24,8 +24,8 @@ The challenge is to build an interactive pricing component according to the desi
 
 ### Links
 
-- [Live Demo](LINK_TO_YOUR_LIVE_DEMO)
-- [Solution on Frontend Mentor](LINK_TO_YOUR_SOLUTION)
+- [Live Demo](https://sivaprasath2004.github.io/interactive-pricing-component/)
+- [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-interactivepricingcomponent-CLddUtY7tj)
 
 ## Features
 
